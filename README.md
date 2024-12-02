@@ -2,7 +2,7 @@
 
 This project involves the design and implementation of a **high-performance out-of-order execution core**, leveraging explicit register renaming for optimized resource utilization and reduced data hazards. The core features an advanced instruction scheduling mechanism, dynamic register allocation, and a robust pipeline structure to maximize instruction throughput and minimize stalls.
 
-## Key Innovations
+## Key Features
 
 - **Explicit Register Renaming**:  
   Decouples architectural registers from physical registers to eliminate write-after-write (WAW) and write-after-read (WAR) hazards.
